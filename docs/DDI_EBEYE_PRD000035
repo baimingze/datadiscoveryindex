@@ -1,0 +1,71 @@
+<database>
+  <name>PRIDE Archive</name>
+  <description/>
+  <release>3</release>
+  <release_date>2015-02-17</release_date>
+  <entry_count>1</entry_count>
+  <entries>
+    <entry id="PRD001357">
+      <name>PRD001357</name>
+      <description>This study investigated the consumption of milk products in the archaeological record, utilizing human dental calculus as a reservoir of dietary proteins from archaeological samples from across Eurasia. Protein extraction and generation of tryptic peptides from dental calculus was performed using a filter-aided sample preparation (FASP) protocol, modified for ancient samples, on 92 samples of archaeological dental calculus. Samples were extracted at three laboratories; the Functional Genomics Centre Zrich (FGCZ), the Centre for GeoGenetics at the National History Museum of Denmark, and BioArCh at the University of York. Sample extracts were sequenced (LC-MS/MS) using an LTQ-Orbitrap Velos (FGCZ), a Q-Exactive Hybrid Quadrupole Orbitrap and an LTQ-Orbitrap Elite (Central Proteomics Facility, Target Discovery Institute, Oxford).</description>
+      <cross_references>
+        <ref dbkey="5476" dbname="TAXONOMY"/>
+        <ref dbkey="23232717" dbname="pubmed"/>
+      </cross_references>
+      <dates>
+        <date type="submission" value="2007-09-17"/>
+        <date type="publication" value="2013-07-08"/>
+      </dates>
+      <additional_fields>
+        <field name="hosting_repository">PRIDE</field>
+	<field name="title">Direct evidence of milk consumption from ancient human dental calculus, St Helena</field>
+
+        <field name="project_submitter">Jessica Hendy; Hendy@yourk.ac.uk; University of York</field>
+        <field name="project_lab_head">Matthew Collins; matthew.collins@york.ac.uk; BioArCh, University of York, UK</field>
+
+        <field name="dataset_identifier">Search engine output file URI: "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH3_QE.dat"</field>
+        <field name="dataset_identifier">Search engine output file URI: "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH4_QE.dat"</field>
+	<field name="dataset_identifier">Search engine output file URI: "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH5_QE.dat"</field>
+
+        <field name="dataset_origin">Origin file URI: "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH1_QE.RAW"</field>
+        <field name="dataset_origin">Origin file URI: "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH2_QE.RAW"</field>
+	<field name="dataset_origin">Origin file URI: "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH3_QE.RAW"</field>
+
+	<field name="analytical_study">Not available</field>
+
+	<field name="species">9606:Homo sapiens (Human)</field>
+
+        <field name="instrument">Q Exactive</field>
+	<field name="instrument">Q Exactive2</field>
+
+
+        <field name="publication">pubmed:25429530</field>
+        <field name="publication">OR pubmed:PMID25429530</field>
+	<field name="publication">OR PMID25429530</field>
+	<field name="publication">Sandai D, Yin Z, Selway L, Stead D, Walker J, Leach MD, Bohovych I, Ene IV, Kastora S, Budge S, Munro CA, Odds FC, Gow NA, Brown AJ; The evolutionary rewiring of ubiquitination targets has reprogrammed the regulation of carbon assimilation in the pathogenic yeast Candida albicans., MBio, 2012 Dec 11, 3, 6, </field>
+
+        <field name="full_dataset_link">Dataset FTP location: "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357"</field>
+	<field name="full_dataset_link">PRIDE project URI: "http://www.ebi.ac.uk/pride/archive/projects/PXD001357"</field>
+
+
+        <field name="dataset_file">Search engine output file URI:  "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH3_QE.dat"</field>
+        <field name="dataset_file">Search engine output file URI:  "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH4_QE.dat"</field>
+	<field name="dataset_file">Search engine output file URI:  "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2015/02/PXD001357/F116626_JH5_QE.dat"</field>
+
+        <field name="submitter_keywords">Human, Dental Calculus, Dental Plaque, LC-MS/MS, Beta-lactoglobulin</field>
+        <field name="curator_keyword">Metaproteomics</field>
+
+
+	<field name="ADD_modification">Oxidation</field>
+	<field name="ADD_modification">Deamidate</field>
+
+
+	<field name="ADD_other_additional_field">Not available</field>
+	<field name="ADD_other_additional_field">Not available</field>
+
+
+
+      </additional_fields>
+    </entry>
+  </entries>
+</database>
